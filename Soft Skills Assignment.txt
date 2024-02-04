@@ -1,0 +1,135 @@
+Topic-1 ==> Language Barrier:
+ 
+Answer: 
+--> At a particular time or place we required to have knowledge of any language for communication or any 
+other things but we don't have.
+
+--> This creates Language Barrier in our work.
+
+
+
+----------------------------------------------------------------------------------------------------------
+
+Topic-2 ==> Impromptu Speech : IT POLICES
+
+Answer:  
+
+1> Acceptable Use Policy:
+
+    -The Acceptable Use Policy (AUP) outlines the acceptable use of computer equipment. 
+
+    -It is used for business purposes in serving the interests of the company, clients, and customers in the
+     course of normal operations. 
+
+    -The AUP defines inappropriate use of information systems and the risk that it may cause. 
+
+    -Improper behavior may compromise the network system and may result in legal consequences. 
+
+    -An example of inappropriate use is when an employee accesses data through a company computer for reasons
+     other than doing his or her job. 
+
+    -The AUP includes general use, appropriate behavior when handling proprietary or sensitive information,
+     and unacceptable use.
+
+2> Security Awareness And Training Policy :
+
+    -Security awareness training is a strategy used by IT and security professionals to prevent and mitigate 
+     user risk.  
+
+    -These programs are designed to help users and employees understand the role they play in helping to 
+     combat information security breaches. 
+
+    -Effective security awareness training helps employees understand proper cyber hygiene, the security risks 
+     associated with their actions and to identify cyber attacks they may encounter via email and the web.
+   
+
+3> Data Retention Policy:
+
+    -A data retention policy, or a record retention policy, is a business’ established protocol for
+     maintaining information. 
+
+    -Typically, a data retention policy will define: 
+    	1> What data needs to be retained
+	2> The format in which it should be kept
+	3> How long it should be stored for
+	4> Whether it should eventually be archived or deleted
+	5> Who has the authority to dispose of it
+	6> What procedure to follow in the event of a policy violation
+
+    -Though the primary purpose of a data retention policy is to ensure proper data management in accordance
+     with relevant legal rules and regulations, it’s also an excellent way to enhance efficiency within your
+     organization. 
+
+
+4> Access Authorization, Modification, and Identity Access Management:
+   
+    -IAM is a set of processes, policies, and tools for controlling user access to critical information within 
+     an organization.
+
+    -It boosts security and provides greater control of user access to your system. 
+
+    -This helps organizations mitigate data breaches, identity theft and illegal access to sensitive corporate 
+     information.
+
+
+5> Network Security Policy:
+
+    -A network security policy is a formal document that outlines strategies for ensuring the confidentiality, 
+     integrity, and availability of network-based data and resources.
+    
+    -Network security is important because it keeps sensitive data safe from cyber attacks and ensures the 
+     network is usable and trustworthy. 
+
+    -Successful network security strategies employ multiple security solutions to protect users and 
+     organizations from malware and cyber attacks, like distributed denial of service.
+
+
+6> Password Creation and Management Policy:
+
+    -A password policy is a set of guidelines and rules that define how passwords should be created, used, and 
+     protected in an organization’s network or web application.
+
+    -Password policies help protect users from themselves by requiring them to create strong passwords and   
+     change them regularly. 
+    
+    -This reduces the risk of their accounts being compromised due to weak passwords or password reuse.
+
+
+7> Vendor Management Policy:
+
+    -Vendor management policy is to identify which vendors put your organization at risk and then define 
+     controls to minimize third-party and fourth-party risk. 
+
+    -It starts with due diligence and assessing whether a third-party vendor should have access to sensitive 
+     data.
+
+    -Vendor risk management is important because managing vendor risk is foundational to cybersecurity, 
+     ensuring business continuity and maintaining regulatory compliance. 
+
+    -A robust vendor risk management (VRM) program can help organizations under their vendor risk profile and 
+     mitigate third-party and fourth-party risk rather than relying on incident response.
+
+
+8> Remote Access Policy:
+
+    -A remote access policy is a policy that is developed by an organization to outline the rules and 
+     regulations for employees to follow when they are accessing the network of an organization from an 
+     external location. 
+
+    -Remote access policies are important for protecting the assets of an organization from external threats.
+
+
+9> Incident Response Policy:
+
+    -Incident response (IR) is the process by which an organization handles a data breach or cyberattack. 
+
+    -It is an effort to quickly identify an attack, minimize its effects, contain damage, and remediate the 
+     cause to reduce the risk of future incidents.
+
+10> Change Management Policy:
+
+    -To a great extent, change management is the practice of facilitating the cultural changes necessary for    
+     an organization to improve its business processes and meet the needs of a dynamic marketplace. 
+
+    -By focusing on the impact of change, you can foresee problems and eliminate or reduce them before they 
+     arise.
